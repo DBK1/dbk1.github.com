@@ -1,0 +1,96 @@
+/*公共部分 start*/
+*{margin: 0;padding: 0}
+.wrap{
+    width: 100%;
+    min-width: 18.22rem;
+}
+.clear{
+    clear: both;
+}
+.box{
+    width: 18.22rem;
+    margin: 0 auto;
+}
+/*公共部分 end*/
+/*head start*/
+.head{
+    height: 1.33rem;
+}
+.head img{
+    width: 100%;
+    height: 100%;
+}
+/*head end*/
+/*banner start*/
+.banner{
+    background-color: #ffc107;
+    padding-top: 1.22rem;
+    box-sizing: border-box;
+    height: 3.11rem;
+}
+.banner p{
+    line-height: 1em;
+    font-size: 1.14rem;
+    color: white;
+    display: inline-block;
+    margin-left: 1.77rem;
+}
+.banner img:nth-child(3){
+    float: right;
+}
+.banner img:nth-child(1){
+     width: 1.07rem;
+     height: 0.72rem;
+ }
+.banner img:nth-child(3){
+    width: 0.96rem;
+    height: 0.96rem;
+}
+/*banner end*/
+/*con1 start*/
+.con1{
+    box-sizing: border-box;
+    padding-top: 2.64rem;
+    height: 5.64rem;
+}
+.con1 img{
+    margin-right: 0.9rem;
+    float: left;
+    height: 3rem;
+}
+.con1 p:nth-child(2){
+    font-size: 0.9rem;
+    color: #6a6a6a;
+    margin-top: 0.3rem;
+    display: inline-block}
+.con1 p:nth-child(3){
+    font-size: 0.64rem;
+    color: #a2a2a2;
+    margin-top: 0.2rem;
+}
+/*con1 end*/
+/*con2 start*/
+.con2{
+    height: 26rem;
+}
+.con21{
+    margin-top: 1.75rem;
+    height: 1.24rem;
+}
+.con21 img{
+    float: left;
+    width: 1rem;
+    height: 1rem;
+}
+.con21 p{
+     font-weight: bold;
+     float: left;
+     margin-left: 1.77rem;
+     font-size: 0.77rem;
+ }
+.con21 img:nth-child(3){
+    float: right;
+    margin-right: 3.88rem;
+
+}
+/*con2 end*/

@@ -1,0 +1,117 @@
+/*公共部分 start*/
+*{margin: 0;padding: 0}
+.wrap{
+    width: 100%;
+    min-width: 18.22rem;
+}
+.clear{
+    clear: both;
+}
+.box{
+    width: 18.22rem;
+    margin: 0 auto;
+}
+/*公共部分 end*/
+/*head start*/
+.head{
+    height: 1.33rem;
+}
+.head img{
+    width: 100%;
+    height: 100%;
+}
+/*head end*/
+/*banner start*/
+.banner{
+    padding-top: 1rem;
+    box-sizing: border-box;
+    background-color: #e91e63;
+    height: 3.05rem;
+}
+.banner img:nth-child(1){
+    float: left;
+    width: 0.94rem;
+    height: 0.94rem;
+    margin-top: 0.1rem;
+}
+.banner p:nth-child(2) a{
+    text-decoration: none;
+    color: white;
+    margin-left: 1.92rem;
+    float: left;
+    font-size: 1.14rem;
+}
+.banner img:nth-child(3){
+    float: right;
+    width: 0.22rem;
+    height: 0.88rem;
+    margin-top: 0.1rem;
+}
+.banner img:nth-child(4){
+    float: right;
+    width: 0.92rem;
+    height: 0.92rem;
+    margin-top: 0.1rem;
+    margin-right: 1rem;
+}
+/*banner end*/
+/*con start*/
+.con .box{
+    padding-top: 1.7rem;
+    box-sizing: border-box;
+    height: 18.51rem;
+    text-align: center;
+}
+.con p:nth-child(1){
+    font-size: 1.2rem;
+    font-weight: bold}
+.con p:nth-child(2){
+    margin-top: 0.4rem;
+    font-size: 0.9rem;
+    color: #5a5a5a;
+}
+.con img{
+    margin-top: 1rem;
+    width: 6.92rem;
+}
+.con p:nth-child(4){
+    margin-top: 1rem;
+    font-size: 0.7rem;
+    line-height: 1rem;
+    font-weight: bold;
+    color: #5a5a5a;
+}
+/*con end*/
+/*con1 start*/
+.con11{
+    font-weight: bold;
+    height: 2.11rem;
+}
+.con12{
+    font-size: 0.66rem;
+    height: 3.33rem;
+}
+.con12 img:nth-child(1){
+    float: left;
+    margin-top: 0;
+    width: 2.27rem;
+    margin-right: 0.7rem;
+}
+.con12 p:nth-child(3){
+    color: #b6b6b6;
+    margin-top: 0.5rem;
+}
+.con12 p:nth-child(3) img{
+    width: 0.66rem;
+}
+.hong{color: #ec3c78}
+.con12 img{
+     width: 1.61rem;
+     margin-top: 0.5rem;
+ }
+.con12:nth-child(4) img:nth-child(7){
+    width: 3.33rem;
+   float: right;
+    margin-top: -1rem;
+}
+/*con1 end*/
